@@ -1,0 +1,27 @@
+{
+    "535515852": {
+        "about": {
+            "age": 0,
+            "nat": 0,
+            "phone": 0
+        },
+        "about_me": {
+            "address": 0,
+            "age": 1,
+            "nat": 0,
+            "phone": 0,
+            "pretty": 0
+        },
+        "id": 535515852,
+        "last_reply": "2021-01-06 01:39",
+        "lasthello": "2021, 01, 06",
+        "next_stat": "parseAnswer",
+        "prev_stat": "no",
+        "questions": {
+            "age": 0,
+            "nat": 0,
+            "phone": 0
+        },
+        "stat": "sendQuest"
+    }
+}
